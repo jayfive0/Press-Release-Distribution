@@ -35,3 +35,5 @@ Press release distribution tool. Submit unlimited free press releases to PR Wire
 
 = None =
 * Next update scheduled 2/01/19
+
+<a href="https://prwirepro.com" alt="press release distribution"><img src="https://prwirepro.com/wp-content/uploads/2018/12/cropped-press-release-distribution-logo-prwirepro.com_-1.png" alt="press release distribution"></a>
