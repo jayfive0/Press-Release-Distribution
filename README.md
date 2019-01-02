@@ -1,7 +1,6 @@
 <a href="https://wordpress.org/plugins/press-release-distribution/">Press Release Distribution Wordpress Plugin</a> 
 
 ## Press Release Distribution ##
-Contributors: (Kenan A. Erden)
 Donate link: https://prwirepro.com/
 Tags: press release distribution, free press release submission, press release templates, press release examples, press release format, social media marketing, press release, press releases, seo
 Requires at least: 2.1
