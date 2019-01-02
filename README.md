@@ -21,7 +21,7 @@ Press release distribution tool. Submit unlimited free press releases to PR Wire
 2. Open the Pr Wire Pro dashboard from within your wordpress panel.
 3. Fill our the form and submit unlimited press releases to our network.
 
-<a href="https://prwirepro.com" alt="Press Release Templates">Press Release Templates</a>
+<a href="https://prwirepro.com/press-release-templates/" alt="Press Release Templates">Press Release Templates</a>
 
 ## Screenshots ##
 
