@@ -32,9 +32,12 @@ Press release distribution tool. Submit unlimited free press releases to PR Wire
 = PR Wire Pro Press Release Tool Version 1.0 =
 * Initial release.
 
-## Upgrade Notice ##
+## Press ##
 
-= None =
-* Next update scheduled 2/01/19
+https://www.fastcompany.com/893187/associated-press-go-social-or-go-away
+
+https://www.adweek.com/digital/win-5000-for-creating-new-jersey-facebook-app/
+
+https://www.poynter.org/reporting-editing/2002/corrections-clarifications/
 
 <a href="https://prwirepro.com" alt="press release distribution"><img src="https://prwirepro.com/wp-content/uploads/2018/12/cropped-press-release-distribution-logo-prwirepro.com_-1.png" alt="press release distribution"></a>
